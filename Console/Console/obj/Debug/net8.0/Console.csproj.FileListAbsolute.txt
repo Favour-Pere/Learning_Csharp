@@ -1,0 +1,14 @@
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/bin/Debug/net8.0/Console
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/bin/Debug/net8.0/Console.deps.json
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/bin/Debug/net8.0/Console.runtimeconfig.json
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/bin/Debug/net8.0/Console.dll
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/bin/Debug/net8.0/Console.pdb
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.dll
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/refint/Console.dll
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.pdb
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/Console.genruntimeconfig.cache
+/Users/peremoboweirobert/Projects/Learning_Csharp/Console/Console/obj/Debug/net8.0/ref/Console.dll
