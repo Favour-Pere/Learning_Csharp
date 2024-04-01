@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ASPNETBook.props" />
+</Project>
