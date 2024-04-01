@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{0051845E-6CB7-47E3-BB1A-893C83F5F1A0}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ASPNETBook FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ASPNETBook PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPNETBook/Program.cs">
+    <Files>
+      <File FileName="ASPNETBook/Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPNETBook" expanded="True">
+            <Node name="ASPNETBook">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
